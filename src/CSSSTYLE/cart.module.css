@@ -1,0 +1,14 @@
+@media(max-width:800px){
+    .cartDetail{
+display:flex;
+flex-direction:column!important;
+}
+
+.checkoutbutton{
+    width:"10px"!important;
+}
+
+.emptyCart{
+    margin-left:5%!important;
+}
+}
