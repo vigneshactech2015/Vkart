@@ -1,0 +1,25 @@
+.exportbutton{
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+    height:5vh;
+}
+
+.user{
+    font-size: 40px;
+    cursor: pointer;
+    transition: 0.3s transform;
+    margin-right:40px!important;
+}
+
+.user:hover{
+transform: scale(1.2);
+}
+
+.pagination{
+    margin-left:67%;
+}
+
+
+
+

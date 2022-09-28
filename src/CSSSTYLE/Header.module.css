@@ -1,0 +1,14 @@
+.header{
+        background-color: black;
+}
+
+@media(max-width:800px){
+    .cart_button{
+        margin-left: 45%!important;
+    }
+}
+
+
+
+
+
